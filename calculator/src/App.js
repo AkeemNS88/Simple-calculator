@@ -7,6 +7,7 @@ function App() {
   
   const ops = ['/', '*', '+', '-', '.'];
 
+  // create a function for handling operators
   const updateCalc = value => {
     if (
       ops.includes(value) && calc === '' ||
@@ -37,11 +38,11 @@ function App() {
     }
     return digits;
   }
-
+  // create a function for determining outcomes
   const calculate = () => {
   setCalc(eval(calc).toString());
   }
-
+  // create a function for deleting last entry, will revisit and possibly add a clear function
   const deleteLast = () => {
     if (calc == '') {
       return;
