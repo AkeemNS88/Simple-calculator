@@ -51,6 +51,13 @@ function App() {
     const value = calc.slice(0, -1);
 
     setCalc(value);
+//  necessary for display value to clear after previous entry
+    if (ops.includes(value.slice(-1))) {
+      setResult(eval(value.toString().slice(0,-1)));  
+    }
+    else{
+      setResult(eval(value.toString()));  
+    }
   }
 
   return (
