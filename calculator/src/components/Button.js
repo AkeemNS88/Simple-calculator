@@ -1,10 +1,10 @@
-const Button = ({ btn, input, setInput, currentNumber, setCurrentNumber, previousNumber, setPreviousNumber, operator, setOperator, equalPressed, setEqualPressed }) => {
+const Button = ({ btn, input, setInput, currentNumber, setCurrentNumber, setOperator, equalPressed, setEqualPressed }) => {
 
     const className = `btn ${btn.class}`;
 
-    // my safe version of the eval() function
+    //safe version of the eval() function
     const safeEval = (newInput) => {
-        // return if input is empty
+        //return if input is empty
         if (!input) {
             return currentNumber;
         }
@@ -13,7 +13,7 @@ const Button = ({ btn, input, setInput, currentNumber, setCurrentNumber, previou
         const numbers = [];
         const operators = [];
 
-        // capture numbers and operators from input state
+        //capture numbers and operators from input state
         for (let i = 0; i < inputArray.length; i++) {
             if (!isNaN(inputArray[i])) {
                 numbers.push(parseFloat(inputArray[i]));
