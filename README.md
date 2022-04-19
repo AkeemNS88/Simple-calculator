@@ -49,7 +49,7 @@ Project is: In Progress
 
 ## To Do
 
-- After =, getting resultant value to clear when next input is pressed (solved with code rewrite)
+- After =, getting resultant value to clear when next input is pressed (solved with code rewrite)..
 
 
 
