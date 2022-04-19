@@ -52,5 +52,4 @@ Project is: In Progress
 - After =, getting resultant value to clear when next input is pressed (solved with code rewrite)
 
 
-## Contact
-Created by Akeem Smith [AkeemS11788@gmail.com] - feel free to contact me!
+
