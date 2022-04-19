@@ -32,6 +32,7 @@ List the ready features here:
 
 
 ## Screenshots
+https://v1-of-simple-calc.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/92126443/164109672-8564d8ee-a974-4bd0-aae6-f0e85276b852.png)
 
 
@@ -39,6 +40,7 @@ List the ready features here:
 
 ## Usage
 -initial purpose of simple calculator will be to perform basic mathmatical evaluations using standard operators
+-eventual purpose will be to build off this creating a Vending Machine ---> Inventory Management System --- Point of Sale System
 
 
 
