@@ -17,13 +17,17 @@
 
 
 ## General Information
-- The purpose of this project is to eventually build a Point of Sale and Inventory Management system.
+- The purpose of this project is to demonstrate a working understanding of functional programming; eventually build a Point of Sale and Inventory Management system.
 Calculator -> vending machine -> point of sale system -> inventory management system
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 
 ## Technologies Used
 - React.js
+- HTML
+- CSS
+- JavaScript
+- Heroku
 
 
 ## Features
