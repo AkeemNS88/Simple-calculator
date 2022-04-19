@@ -37,7 +37,7 @@ List the ready features here:
 
 ## Screenshots
 https://v1-of-simple-calc.herokuapp.com/
-![image](https://user-images.githubusercontent.com/92126443/164109672-8564d8ee-a974-4bd0-aae6-f0e85276b852.png)
+![image](https://user-images.githubusercontent.com/92126443/164110842-f3fae144-4952-4054-aa58-5c7eb6e473e3.png)
 
 
 
