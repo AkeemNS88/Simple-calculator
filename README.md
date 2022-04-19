@@ -1,6 +1,6 @@
 # Simple Calculator
 > https://v1-of-simple-calc.herokuapp.com/
-> Live demo link. <!-- when hosted put demo link here -->
+> 
 
 ## Table of Contents
 * [General Info](#general-information)
