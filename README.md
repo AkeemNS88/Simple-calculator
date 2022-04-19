@@ -17,8 +17,7 @@
 
 
 ## General Information
-- The purpose of this project is to demonstrate a working understanding of functional programming; eventually build a Point of Sale and Inventory Management system.
-Calculator -> vending machine -> point of sale system -> inventory management system
+- The purpose of this project is to demonstrate a working understanding of functional programming
 
 
 
@@ -44,19 +43,15 @@ https://v1-of-simple-calc.herokuapp.com/
 
 ## Usage
 -initial purpose of simple calculator will be to perform basic mathmatical evaluations using standard operators
--eventual purpose will be to build off this creating a Vending Machine ---> Inventory Management System --- Point of Sale System
+
 
 
 
 
 
 ## Project Status
-Project is: In Progress
+Project is: Complete
 
-
-## To Do
-
-- After =, getting resultant value to clear when next input is pressed (solved with code rewrite).
 
 
 
