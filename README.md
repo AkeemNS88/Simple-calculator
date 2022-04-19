@@ -1,5 +1,5 @@
 # Simple Calculator
-> Outline a brief description of your project.
+> 
 > Live demo link. <!-- when hosted put demo link here -->
 
 ## Table of Contents
