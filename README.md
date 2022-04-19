@@ -1,5 +1,5 @@
 # Simple Calculator
-> 
+> https://v1-of-simple-calc.herokuapp.com/
 > Live demo link. <!-- when hosted put demo link here -->
 
 ## Table of Contents
@@ -35,7 +35,6 @@ List the ready features here:
 
 
 ## Screenshots
-https://v1-of-simple-calc.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/92126443/164110842-f3fae144-4952-4054-aa58-5c7eb6e473e3.png)
 
 
